@@ -18,7 +18,7 @@ Cada pasta contem arquivos relacioandos e estudados sobre cada tema, como:
 - Analise de dados com Power BI (criação de Dashboards interatívos)
 - Cases de problemas Reais usando essas ferramentas
 
-[Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+[Dashboard BI](https://github.com/GTBelini22/Estudo_Analise_de_dados/blob/main/Assets/dashboards%20bi.png)
 
 # Ferramentas e funções
 
