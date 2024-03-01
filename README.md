@@ -35,3 +35,6 @@ Gustavo Torres Belini
 
 https://www.linkedin.com/in/gustavo-belini2200224055/
 
+# Portifólio de Dashboards
+https://sites.google.com/view/portifolio-gustavo-power-bi/in%C3%ADcio
+
